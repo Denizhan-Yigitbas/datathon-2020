@@ -33,3 +33,5 @@ We spent a lot of time developing our story and mapping out our plan for the nar
 ## Accomplishments that we're proud of
 
 We are proud of developing a beautiful interactive visualization in less than 16 hours. We gained familiarity with different languages and online interfaces. We also are proud of the succinct way we present (only the essential) information for our story.
+
+Won 1st place at Rice Datathon Competition 2019 for Houston Data Track
